@@ -32,14 +32,18 @@ For general processing problem, formulate the RGV dynamic scheduling model and g
 
 In picture 1, the middle equipment is RGV with cleaning tank and manipulator. The cleaning tank can clean one material every time. There are two paws in the front of the manipulator’s arm, paws can grab one material successively by rotating to complete loading-unloading operation. The 8 CNCs are arranged in the two sides of the picture 1. There is a piece of conveyer belt installed in front of each CNC. The right side of picture 1 is the loading conveyor belt, which is responsible for conveying raw material for CNC, and the left of the picture 1 is the unloading conveyor belt, which is responsible for sending the processed and cleaned material out of the system. Other auxiliary equipment helps the system for its normal operation. 
 
-![image](https://i.loli.net/2018/09/17/5b9fa1b0e0706.jpg)
+![image](https://i.loli.net/2018/09/17/5b9fa1b147db9.jpg)
+
 Picture 1：RGV—CNC workshop layout
 
 ![image](https://i.loli.net/2018/09/17/5b9fa1b0e0cf0.jpg)
+
 Picture 2：RGV which carried-self paws and cleaning tank
  
-![image](https://i.loli.net/2018/09/17/5b9fa1b147db9.jpg)
+![image](https://i.loli.net/2018/09/17/5b9fa1b0e0706.jpg)
+
 ![image](https://i.loli.net/2018/09/17/5b9fa1b04a8aa.jpg)
+
 Picture 3：Two paws and their operation in the front of RGV manipulator’s arm
 
 In the left of picture 3, unprocessed raw material A was grasped by the upper paw of the arm, there is a processed material B on the CNC table. The empty paw (lower part of the arm) is ready to grab the processed material B. The RGV manipulator will complete the unloading operation after grabbed the processed B.
